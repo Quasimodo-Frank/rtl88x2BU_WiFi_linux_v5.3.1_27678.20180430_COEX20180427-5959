@@ -1,3 +1,5 @@
+# Note: I am using this for Fenvi RTL8812AU AC1200 WiFi USB 3.0 DOngle on the NVIDIA Jetson TX2 platform.
+
 Updated driver for rtl88x2bu wifi adaptors based on rtl88x2BU_WiFi_linux_v5.3.1_27678.20180430_COEX20180427-5959 originally downloaded from [D-Link's download page for the DWA-182 Rev D](https://support.dlink.com/ProductInfo.aspx?m=DWA-182).
 
 Build confirmed on:
